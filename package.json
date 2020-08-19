@@ -14,9 +14,10 @@
     "author": "Henrique Vetter Schmidt",
     "license": "ISC",
     "dependencies": {
+        "cors": "^2.8.5",
         "date-fns": "^2.15.0",
         "express": "^4.17.1",
-        "mongoose": "^5.9.25"
+        "mongoose": "^5.10.0"
     },
     "devDependencies": {
         "nodemon": "^2.0.4"
