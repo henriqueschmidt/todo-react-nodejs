@@ -1,4 +1,4 @@
-# todo-react-nodejs-backend
+# todo-server-nodejs
 The server code to ToDo application using nodejs, react and react native to client
 
 To init 
